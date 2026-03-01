@@ -2,7 +2,7 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { collection, getDocs, doc, getDoc } from "firebase/firestore";
+import { collection, getDocs, doc, getDoc, query, where, documentId } from "firebase/firestore";
 import { signOut } from "firebase/auth";
 import { auth, db } from "../lib/firebaseClient";
 import { requireAuth } from "../lib/authGuard";
@@ -42,10 +42,23 @@ export default function Home() {
 
         setPostosPermitidos(permitidos);
 
-        // 2) Lista todos os postos
-        const snap = await getDocs(collection(db, "postos"));
-        let list = snap.docs.map((d) => ({ id: d.id, ...d.data() }));
+        // 2) Lista postos permitidos
+        let list = [];
 
+        if (rolePortal === "super_admin") {
+          const snap = await getDocs(collection(db, "postos"));
+          list = snap.docs.map((d) => ({ id: d.id, ...d.data() }));
+        } else {
+          // admin: buscar somente os permitidos (evita query global)
+          const chunks = [];
+          for (let i = 0; i < permitidos.length; i += 10) chunks.push(permitidos.slice(i, i + 10));
+
+          for (const part of chunks) {
+            const qy = query(collection(db, "postos"), where(documentId(), "in", part));
+            const snap = await getDocs(qy);
+            list.push(...snap.docs.map((d) => ({ id: d.id, ...d.data() })));
+          }
+        }
         // 3) ✅ FILTRA POR PERMISSÃO (aqui está a correção!)
         if (rolePortal !== "super_admin") {
           list = list.filter((p) => {
