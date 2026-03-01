@@ -258,8 +258,8 @@ export default function ChecklistDetalhe() {
 
                 return (
                   <div className="card cardPad" key={`${idx}_${it.label || "item"}`}>
-                    <div className="row" style={{ justifyContent: "space-between", gap: 12 }}>
-                      <div style={{ flex: 1 }}>
+                    <div className="itemHeader">
+                      <div className="itemText">
                         <div style={{ fontWeight: 900, fontSize: 16 }}>{it.label || "-"}</div>
                         {it.comentario ? (
                           <div className="muted" style={{ marginTop: 8 }}>📝 {it.comentario}</div>
