@@ -147,12 +147,25 @@ export default function ChecklistDetalhe() {
         return;
       }
 
-      setSignedUrls(json?.urls || {});
-      if ((json?.urls && Object.keys(json.urls).length === 0) && allFileIds.length > 0) {
-        setErroFotos(
-          "Nenhuma URL assinada retornou. Pode ser CORS/SIGNING_SECRET ou falta metadata em driveFiles/{fileId}."
-        );
-      }
+      let map = {};
+
+if (json?.urls && typeof json.urls === "object") {
+  map = json.urls;
+} else if (Array.isArray(json?.items)) {
+  json.items.forEach((it) => {
+    if (it?.fileId && it?.url) {
+      map[String(it.fileId)] = String(it.url);
+    }
+  });
+}
+
+setSignedUrls(map);
+
+if (Object.keys(map).length === 0 && allFileIds.length > 0) {
+  setErroFotos(
+    "Nenhuma URL assinada retornou. Verifique SIGNING_SECRET, autenticação ou retorno do backend."
+  );
+}
     } catch (e) {
       console.log("signed-urls exception:", e);
       setErroFotos(e?.message || "Erro ao buscar signed urls.");
