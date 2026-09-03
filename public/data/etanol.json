@@ -1,0 +1,4898 @@
+[
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 820,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 819,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 818,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 819,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 818,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 15.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 819,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 818,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 818,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 16.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 818,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 815.63,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 814.26,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 812.89,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 811.52,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 810.15,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 808.78,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 807.41,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 806.04,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 804.67,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17,
+  "DENS. OBS. (kg/m³)": 803.3,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 17.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 817,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 18.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 816,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 19.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 815,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 20.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 814,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 21.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 22.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 813,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 23.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 812,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 24.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 811,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 25.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 810,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 26.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 809,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 27.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 808,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 28.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 807,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 29.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 30.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 806,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 31.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 805,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 32.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 804,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 33.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 803,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 34.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 802,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 35.5,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 801,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 36.5,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 814.66,
+  "GRAU ALCOÓLICO (°INPM)": 91.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 810.57,
+  "GRAU ALCOÓLICO (°INPM)": 92.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 807.52,
+  "GRAU ALCOÓLICO (°INPM)": 93.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 800,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 813.04,
+  "GRAU ALCOÓLICO (°INPM)": 91.8,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 810.02,
+  "GRAU ALCOÓLICO (°INPM)": 92.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 806.96,
+  "GRAU ALCOÓLICO (°INPM)": 94,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 37.5,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 813.58,
+  "GRAU ALCOÓLICO (°INPM)": 91.6,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 812.49,
+  "GRAU ALCOÓLICO (°INPM)": 92,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 809.47,
+  "GRAU ALCOÓLICO (°INPM)": 93.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 806.4,
+  "GRAU ALCOÓLICO (°INPM)": 94.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 804.42,
+  "GRAU ALCOÓLICO (°INPM)": 94.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38,
+  "DENS. OBS. (kg/m³)": 788,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 799,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 811.94,
+  "GRAU ALCOÓLICO (°INPM)": 92.2,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 808.91,
+  "GRAU ALCOÓLICO (°INPM)": 93.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 805.84,
+  "GRAU ALCOÓLICO (°INPM)": 94.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 38.5,
+  "DENS. OBS. (kg/m³)": 788,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 814.39,
+  "GRAU ALCOÓLICO (°INPM)": 91.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 811.4,
+  "GRAU ALCOÓLICO (°INPM)": 92.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 808.36,
+  "GRAU ALCOÓLICO (°INPM)": 93.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 805.27,
+  "GRAU ALCOÓLICO (°INPM)": 94.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39,
+  "DENS. OBS. (kg/m³)": 788,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 814.93,
+  "GRAU ALCOÓLICO (°INPM)": 91.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 813.85,
+  "GRAU ALCOÓLICO (°INPM)": 91.5,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 812.76,
+  "GRAU ALCOÓLICO (°INPM)": 91.9,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 811.67,
+  "GRAU ALCOÓLICO (°INPM)": 92.3,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 810.85,
+  "GRAU ALCOÓLICO (°INPM)": 92.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 809.75,
+  "GRAU ALCOÓLICO (°INPM)": 93,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 808.64,
+  "GRAU ALCOÓLICO (°INPM)": 93.4,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 807.8,
+  "GRAU ALCOÓLICO (°INPM)": 93.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 806.68,
+  "GRAU ALCOÓLICO (°INPM)": 94.1,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 805.56,
+  "GRAU ALCOÓLICO (°INPM)": 94.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 788,
+  "DENS. 20°C (kg/m³)": 804.71,
+  "GRAU ALCOÓLICO (°INPM)": 94.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 39.5,
+  "DENS. OBS. (kg/m³)": 787,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 798,
+  "DENS. 20°C (kg/m³)": 815.2,
+  "GRAU ALCOÓLICO (°INPM)": 91,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 797,
+  "DENS. 20°C (kg/m³)": 814.12,
+  "GRAU ALCOÓLICO (°INPM)": 91.4,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 796,
+  "DENS. 20°C (kg/m³)": 813.31,
+  "GRAU ALCOÓLICO (°INPM)": 91.7,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 795,
+  "DENS. 20°C (kg/m³)": 812.22,
+  "GRAU ALCOÓLICO (°INPM)": 92.1,
+  "CONFORME / NÃO CONFORME": "NÃO CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 794,
+  "DENS. 20°C (kg/m³)": 811.12,
+  "GRAU ALCOÓLICO (°INPM)": 92.5,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 793,
+  "DENS. 20°C (kg/m³)": 810.3,
+  "GRAU ALCOÓLICO (°INPM)": 92.8,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 792,
+  "DENS. 20°C (kg/m³)": 809.19,
+  "GRAU ALCOÓLICO (°INPM)": 93.2,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 791,
+  "DENS. 20°C (kg/m³)": 808.08,
+  "GRAU ALCOÓLICO (°INPM)": 93.6,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 790,
+  "DENS. 20°C (kg/m³)": 807.24,
+  "GRAU ALCOÓLICO (°INPM)": 93.9,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 789,
+  "DENS. 20°C (kg/m³)": 806.12,
+  "GRAU ALCOÓLICO (°INPM)": 94.3,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 788,
+  "DENS. 20°C (kg/m³)": 804.99,
+  "GRAU ALCOÓLICO (°INPM)": 94.7,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+},
+{
+  "COMBUSTÍVEL": "ETANOL",
+  "TEMP. (°C)": 40,
+  "DENS. OBS. (kg/m³)": 787,
+  "DENS. 20°C (kg/m³)": 804.14,
+  "GRAU ALCOÓLICO (°INPM)": 95,
+  "CONFORME / NÃO CONFORME": "CONFORME"
+}
+]

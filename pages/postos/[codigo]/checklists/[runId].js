@@ -32,6 +32,8 @@ export default function ChecklistDetalhe() {
   const [loadingFotos, setLoadingFotos] = useState(false);
   const [erroFotos, setErroFotos] = useState("");
 
+  const [openImg, setOpenImg] = useState(null);
+
   useEffect(() => {
     const unsub = requireAuth(router, setUser);
     return () => unsub?.();
@@ -145,12 +147,25 @@ export default function ChecklistDetalhe() {
         return;
       }
 
-      setSignedUrls(json?.urls || {});
-      if ((json?.urls && Object.keys(json.urls).length === 0) && allFileIds.length > 0) {
-        setErroFotos(
-          "Nenhuma URL assinada retornou. Pode ser CORS/SIGNING_SECRET ou falta metadata em driveFiles/{fileId}."
-        );
-      }
+      let map = {};
+
+if (json?.urls && typeof json.urls === "object") {
+  map = json.urls;
+} else if (Array.isArray(json?.items)) {
+  json.items.forEach((it) => {
+    if (it?.fileId && it?.url) {
+      map[String(it.fileId)] = String(it.url);
+    }
+  });
+}
+
+setSignedUrls(map);
+
+if (Object.keys(map).length === 0 && allFileIds.length > 0) {
+  setErroFotos(
+    "Nenhuma URL assinada retornou. Verifique SIGNING_SECRET, autenticação ou retorno do backend."
+  );
+}
     } catch (e) {
       console.log("signed-urls exception:", e);
       setErroFotos(e?.message || "Erro ao buscar signed urls.");
@@ -177,32 +192,32 @@ export default function ChecklistDetalhe() {
 
   return (
     <div className="container">
+      {/* Header no padrão bonito */}
       <div className="topbar">
         <div>
-          <h2 style={{ margin: 0 }}>
-            {dados?.tipo === "diario" ? "📋 Checklist Diário" : "📅 Checklist Mensal"} •{" "}
-            {dados?.data || "—"}
-          </h2>
-          <small className="muted">
-            Posto: {dados?.nomePosto || dados?.codigoPosto || codigo} • Responsável:{" "}
-            {dados?.usuario || "—"} • {role || "sem rolePortal"}
-          </small>
+          <h1 className="h1" style={{ margin: 0 }}>
+            {dados?.tipo === "diario" ? "📋 Checklist Diário" : "📅 Checklist Mensal"} • {dados?.data || "—"}
+          </h1>
+          <div className="sub">
+            Posto: <b>{dados?.nomePosto || dados?.codigoPosto || codigo}</b> • Responsável:{" "}
+            <b>{dados?.usuario || "—"}</b> • <b>{role || "sem rolePortal"}</b>
+          </div>
         </div>
-        <div className="row">
-          <button className="btn2" onClick={() => router.push(`/postos/${codigo}`)}>
-            Voltar
-          </button>
-          <button className="btn" onClick={sair}>
-            Sair
-          </button>
+
+        <div className="topActions">
+          <button className="btn2" onClick={() => router.push(`/postos/${codigo}`)}>⬅ Voltar</button>
+          <button className="btn btnRed" onClick={sair}>Sair</button>
         </div>
       </div>
 
       {loading ? (
-        <p>Carregando...</p>
+        <div className="card cardPad">
+          <p className="helper">Carregando...</p>
+        </div>
       ) : (
         <>
-          <div className="card" style={{ marginBottom: 14 }}>
+          {/* Card resumo */}
+          <div className="card cardPad" style={{ marginBottom: 14 }}>
             <div className="row" style={{ justifyContent: "space-between" }}>
               <div>
                 <div className="muted">Início</div>
@@ -223,14 +238,18 @@ export default function ChecklistDetalhe() {
             </div>
 
             {allFileIds.length > 0 && (
-              <div style={{ marginTop: 10 }} className="row">
-                <div className="muted" style={{ flex: 1 }}>
+              <div style={{ marginTop: 14 }} className="row">
+                <div className="helper" style={{ flex: 1 }}>
                   {loadingFotos
                     ? "Carregando fotos..."
                     : BACKEND_URL
                     ? `Fotos detectadas: ${allFileIds.length} • URLs retornadas: ${Object.keys(signedUrls || {}).length}`
                     : "NEXT_PUBLIC_BACKEND_URL não configurado."}
-                  {erroFotos ? <div className="toast err" style={{ marginTop: 10 }}>{erroFotos}</div> : null}
+                  {erroFotos ? (
+                    <div className="toast err" style={{ marginTop: 10 }}>
+                      {erroFotos}
+                    </div>
+                  ) : null}
                 </div>
 
                 <button className="btn btnBlue" onClick={carregarSignedUrls} disabled={loadingFotos}>
@@ -241,7 +260,9 @@ export default function ChecklistDetalhe() {
           </div>
 
           {itens.length === 0 ? (
-            <p>Sem itens.</p>
+            <div className="card cardPad">
+              <p className="helper">Sem itens.</p>
+            </div>
           ) : (
             <div className="stack">
               {itens.map((it, idx) => {
@@ -249,34 +270,24 @@ export default function ChecklistDetalhe() {
                 const fotos = Array.isArray(it.fotos) ? it.fotos.map(String) : [];
 
                 return (
-                  <div className="card" key={`${idx}_${it.label || "item"}`}>
-                    <div className="row" style={{ justifyContent: "space-between", gap: 12 }}>
-                      <div style={{ flex: 1 }}>
-                        <div style={{ fontWeight: 900, fontSize: 15 }}>{it.label || "-"}</div>
+                  <div className="card cardPad" key={`${idx}_${it.label || "item"}`}>
+                    <div className="itemHeader">
+                      <div className="itemText">
+                        <div style={{ fontWeight: 900, fontSize: 16 }}>{it.label || "-"}</div>
                         {it.comentario ? (
-                          <div className="muted" style={{ marginTop: 6 }}>
-                            📝 {it.comentario}
-                          </div>
+                          <div className="muted" style={{ marginTop: 8 }}>📝 {it.comentario}</div>
                         ) : null}
                         {it.vencimento ? (
-                          <div className="muted" style={{ marginTop: 4 }}>
-                            ⏳ Venc.: {it.vencimento}
-                          </div>
+                          <div className="muted" style={{ marginTop: 6 }}>⏳ Venc.: {it.vencimento}</div>
                         ) : null}
                       </div>
 
                       <div className={`status ${CORES[st] || "na"}`}>
-                        {st === "bom"
-                          ? "✅ Bom"
-                          : st === "regular"
-                          ? "⚠️ Regular"
-                          : st === "ruim"
-                          ? "❌ Ruim"
-                          : "➖ N/A"}
+                        {st === "bom" ? "✅ Bom" : st === "regular" ? "⚠️ Regular" : st === "ruim" ? "❌ Ruim" : "➖ N/A"}
                       </div>
                     </div>
 
-                    <div style={{ marginTop: 12 }}>
+                    <div style={{ marginTop: 14 }}>
                       {fotos.length === 0 ? (
                         <div className="muted">Sem fotos</div>
                       ) : (
@@ -299,6 +310,7 @@ export default function ChecklistDetalhe() {
                                 src={url}
                                 alt="foto"
                                 loading="lazy"
+                                onClick={() => setOpenImg(url)}
                               />
                             );
                           })}
@@ -310,6 +322,20 @@ export default function ChecklistDetalhe() {
               })}
             </div>
           )}
+
+          {/* Modal zoom */}
+          {openImg ? (
+            <div className="modalBackdrop" onClick={() => setOpenImg(null)}>
+              <div className="modalBox" onClick={(e) => e.stopPropagation()}>
+                <div className="row" style={{ justifyContent: "flex-end" }}>
+                  <button className="btn2" onClick={() => setOpenImg(null)}>Fechar ✕</button>
+                </div>
+                <div style={{ marginTop: 10 }}>
+                  <img className="modalImg" src={openImg} alt="foto ampliada" />
+                </div>
+              </div>
+            </div>
+          ) : null}
         </>
       )}
     </div>

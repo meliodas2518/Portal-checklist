@@ -2,19 +2,16 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { collection, getDocs, doc, getDoc } from "firebase/firestore";
+import { doc, getDoc } from "firebase/firestore";
 import { signOut } from "firebase/auth";
 import { auth, db } from "../lib/firebaseClient";
 import { requireAuth } from "../lib/authGuard";
 
-export default function Home() {
+export default function Dashboard() {
   const router = useRouter();
   const [user, setUser] = useState(null);
   const [role, setRole] = useState(null);
-
-  const [postos, setPostos] = useState([]);
-  const [postosPermitidos, setPostosPermitidos] = useState([]);
-
+  const [modulos, setModulos] = useState({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -24,42 +21,12 @@ export default function Home() {
 
   useEffect(() => {
     if (!user) return;
-
     (async () => {
       try {
-        setLoading(true);
-
-        // 1) Perfil do usuário
         const usnap = await getDoc(doc(db, "usuarios", user.uid));
         const data = usnap.exists() ? usnap.data() : {};
-        const rolePortal = data?.rolePortal || null;
-
-        setRole(rolePortal);
-
-        const permitidos = Array.isArray(data?.postosPermitidos)
-          ? data.postosPermitidos.map(String)
-          : [];
-
-        setPostosPermitidos(permitidos);
-
-        // 2) Lista todos os postos
-        const snap = await getDocs(collection(db, "postos"));
-        let list = snap.docs.map((d) => ({ id: d.id, ...d.data() }));
-
-        // 3) ✅ FILTRA POR PERMISSÃO (aqui está a correção!)
-        if (rolePortal !== "super_admin") {
-          list = list.filter((p) => {
-            const codigo = String(p.codigoPosto || p.id);
-            return permitidos.includes(codigo);
-          });
-        }
-
-        // 4) ordena
-        list.sort((a, b) =>
-          String(a.codigoPosto || a.id).localeCompare(String(b.codigoPosto || b.id))
-        );
-
-        setPostos(list);
+        setRole(data?.rolePortal || null);
+        setModulos(data?.modulos || {});
       } finally {
         setLoading(false);
       }
@@ -76,6 +43,10 @@ export default function Home() {
     return `${user.email} • ${role ? role : "—"}`;
   }, [user, role]);
 
+  // super_admin sempre enxerga tudo, mesmo sem os campos de módulo setados
+  const podeChecklist = role === "super_admin" || modulos?.checklist === true;
+  const podeAnalise = role === "super_admin" || modulos?.analise === true;
+
   return (
     <div className="container">
       <div className="pageTitle">
@@ -85,14 +56,7 @@ export default function Home() {
         </div>
 
         <div className="topActions">
-          {role === "super_admin" && (
-            <button className="btn btnBlue" onClick={() => router.push("/admin")}>
-              ⚙️ Admin
-            </button>
-          )}
-          <button className="btn btnRed" onClick={sair}>
-            ⎋ Sair
-          </button>
+          <button className="btn btnRed" onClick={sair}>⎋ Sair</button>
         </div>
       </div>
 
@@ -100,32 +64,41 @@ export default function Home() {
         {loading ? (
           <div className="row">
             <span className="badge">
-              <span className="dot" /> Carregando postos...
+              <span className="dot" /> Carregando...
             </span>
-          </div>
-        ) : postos.length === 0 ? (
-          <div className="toast warn">
-            Nenhum posto disponível para este usuário.
-            {role !== "super_admin" ? (
-              <div style={{ marginTop: 6 }} className="muted">
-                Peça ao super_admin liberar algum código em <b>postosPermitidos</b>.
-              </div>
-            ) : null}
           </div>
         ) : (
           <div className="cardsGrid">
-            {postos.map((p) => {
-              const codigo = String(p.codigoPosto || p.id);
-              const nome = p.nome || p.nomePosto || "Sem nome";
+            {podeChecklist && (
+              <Link href="/checklists" className="postCard">
+                <div className="postCardTitle">📋 Checklist</div>
+                <div className="postCardSub">Ver checklists preenchidos por posto</div>
+                <div className="postCardHint">Abrir →</div>
+              </Link>
+            )}
 
-              return (
-                <Link key={codigo} href={`/postos/${encodeURIComponent(codigo)}`} className="postCard">
-                  <div className="postCardTitle">{nome}</div>
-                  <div className="postCardSub">Código: {codigo}</div>
-                  <div className="postCardHint">Abrir checklists →</div>
-                </Link>
-              );
-            })}
+            {podeAnalise && (
+              <Link href="/analise-combustivel" className="postCard">
+                <div className="postCardTitle">⛽ Análise de Combustível</div>
+                <div className="postCardSub">Calculadora de conformidade</div>
+                <div className="postCardHint">Abrir →</div>
+              </Link>
+            )}
+
+            {role === "super_admin" && (
+              <Link href="/admin" className="postCard">
+                <div className="postCardTitle">⚙️ Admin</div>
+                <div className="postCardSub">Gerenciar usuários e postos</div>
+                <div className="postCardHint">Abrir →</div>
+              </Link>
+            )}
+
+            {!podeChecklist && !podeAnalise && role !== "super_admin" && (
+              <div className="toast warn">
+                Nenhum módulo liberado para este usuário. Peça ao administrador
+                para habilitar em <b>modulos.checklist</b> / <b>modulos.analise</b>.
+              </div>
+            )}
           </div>
         )}
       </div>

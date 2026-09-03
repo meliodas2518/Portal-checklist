@@ -98,48 +98,56 @@ export default function PostoPage() {
 
   return (
     <div className="container">
+      {/* Header igual padrão */}
       <div className="topbar">
         <div>
-          <h2 style={{ margin: 0 }}>{titulo}</h2>
-          <small className="muted">
-            Código: {codigo} • {role || "sem rolePortal"}
-          </small>
+          <h1 className="h1" style={{ margin: 0 }}>{titulo}</h1>
+          <div className="sub">
+            Código: <b>{codigo}</b> • <b>{role || "sem rolePortal"}</b>
+          </div>
         </div>
-        <div className="row">
-          <button className="btn2" onClick={() => router.push("/")}>Voltar</button>
-          <button className="btn" onClick={sair}>Sair</button>
+
+        <div className="topActions">
+          <button className="btn2" onClick={() => router.push("/")}>⬅ Voltar</button>
+          <button className="btn btnRed" onClick={sair}>Sair</button>
         </div>
       </div>
 
-      {loading ? (
-        <p>Carregando...</p>
-      ) : runs.length === 0 ? (
-        <p>Nenhum checklist encontrado.</p>
-      ) : (
-        <div className="grid">
-          {runs.map((r) => {
-            const fim = toDate(r.finalizadoEm);
-            const ini = toDate(r.iniciadoEm);
+      <div className="card cardPad">
+        {loading ? (
+          <p className="helper">Carregando...</p>
+        ) : runs.length === 0 ? (
+          <p className="helper">Nenhum checklist encontrado.</p>
+        ) : (
+          <div className="grid">
+            {runs.map((r) => {
+              const fim = toDate(r.finalizadoEm);
+              const ini = toDate(r.iniciadoEm);
 
-            const href = `/postos/${encodeURIComponent(String(codigo))}/checklists/${encodeURIComponent(String(r.id))}`;
+              const href = `/postos/${encodeURIComponent(String(codigo))}/checklists/${encodeURIComponent(String(r.id))}`;
 
-            return (
-              <Link key={r.id} href={href} className="card cardHover" style={{ display: "block" }}>
-                <div style={{ fontWeight: 900 }}>
-                  {r.tipo === "diario" ? "📋 Diário" : "📅 Mensal"} • {r.data || "—"}
-                </div>
-                <small className="muted">
-                  Início: {ini ? ini.toLocaleString("pt-BR") : "—"} <br />
-                  Final: {fim ? fim.toLocaleString("pt-BR") : "—"}
-                </small>
-                <div style={{ marginTop: 10 }}>
-                  <span className="pill">{r.usuario || "—"}</span>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      )}
+              return (
+                <Link key={r.id} href={href} className="postCard">
+                  <div className="postCardTitle">
+                    {r.tipo === "diario" ? "📋 Diário" : "📅 Mensal"} • {r.data || "—"}
+                  </div>
+
+                  <div className="postCardSub">
+                    Início: {ini ? ini.toLocaleString("pt-BR") : "—"} <br />
+                    Final: {fim ? fim.toLocaleString("pt-BR") : "—"}
+                  </div>
+
+                  <div style={{ marginTop: 10 }}>
+                    <span className="pill">{r.usuario || "—"}</span>
+                  </div>
+
+                  <div className="postCardHint">Abrir checklist →</div>
+                </Link>
+              );
+            })}
+          </div>
+        )}
+      </div>
     </div>
   );
 }
