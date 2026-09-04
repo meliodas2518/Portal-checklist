@@ -6,12 +6,21 @@ import { doc, getDoc } from "firebase/firestore";
 import { signOut } from "firebase/auth";
 import { auth, db } from "../lib/firebaseClient";
 import { requireAuth } from "../lib/authGuard";
+import { linkSuporteWhatsapp } from "../lib/support";
+
+function toDate(ts) {
+  if (!ts) return null;
+  if (ts.toDate) return ts.toDate();
+  const d = new Date(ts);
+  return isNaN(d.getTime()) ? null : d;
+}
 
 export default function Dashboard() {
   const router = useRouter();
   const [user, setUser] = useState(null);
   const [role, setRole] = useState(null);
   const [modulos, setModulos] = useState({});
+  const [vencimento, setVencimento] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -27,6 +36,7 @@ export default function Dashboard() {
         const data = usnap.exists() ? usnap.data() : {};
         setRole(data?.rolePortal || null);
         setModulos(data?.modulos || {});
+        setVencimento(toDate(data?.vencimento));
       } finally {
         setLoading(false);
       }
@@ -43,9 +53,11 @@ export default function Dashboard() {
     return `${user.email} • ${role ? role : "—"}`;
   }, [user, role]);
 
-  // super_admin sempre enxerga tudo, mesmo sem os campos de módulo setados
-  const podeChecklist = role === "super_admin" || modulos?.checklist === true;
-  const podeAnalise = role === "super_admin" || modulos?.analise === true;
+  // super_admin nunca vence e sempre enxerga tudo
+  const planoVencido = role !== "super_admin" && vencimento && new Date() > vencimento;
+
+  const podeChecklist = role === "super_admin" || (modulos?.checklist === true && !planoVencido);
+  const podeAnalise = role === "super_admin" || (modulos?.analise === true && !planoVencido);
 
   return (
     <div className="container">
@@ -56,6 +68,12 @@ export default function Dashboard() {
         </div>
 
         <div className="topActions">
+          <button
+            className="btn2"
+            onClick={() => window.open(linkSuporteWhatsapp(), "_blank")}
+          >
+            🆘 Suporte
+          </button>
           <button className="btn btnRed" onClick={sair}>⎋ Sair</button>
         </div>
       </div>
@@ -85,6 +103,12 @@ export default function Dashboard() {
               </Link>
             )}
 
+            <Link href="/planos" className="postCard">
+              <div className="postCardTitle">💳 Planos</div>
+              <div className="postCardSub">Assinar ou renovar seu acesso</div>
+              <div className="postCardHint">Abrir →</div>
+            </Link>
+
             {role === "super_admin" && (
               <Link href="/admin" className="postCard">
                 <div className="postCardTitle">⚙️ Admin</div>
@@ -93,7 +117,14 @@ export default function Dashboard() {
               </Link>
             )}
 
-            {!podeChecklist && !podeAnalise && role !== "super_admin" && (
+            {planoVencido && (
+              <div className="toast warn">
+                Seu plano venceu. <Link href="/planos">Assine um plano</Link> para
+                liberar novamente o Checklist e a Análise de Combustível.
+              </div>
+            )}
+
+            {!planoVencido && !podeChecklist && !podeAnalise && role !== "super_admin" && (
               <div className="toast warn">
                 Nenhum módulo liberado para este usuário. Peça ao administrador
                 para habilitar em <b>modulos.checklist</b> / <b>modulos.analise</b>.

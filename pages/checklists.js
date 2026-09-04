@@ -7,6 +7,13 @@ import { signOut } from "firebase/auth";
 import { auth, db } from "../lib/firebaseClient";
 import { requireAuth } from "../lib/authGuard";
 
+function toDate(ts) {
+  if (!ts) return null;
+  if (ts.toDate) return ts.toDate();
+  const d = new Date(ts);
+  return isNaN(d.getTime()) ? null : d;
+}
+
 export default function Checklists() {
   const router = useRouter();
   const [user, setUser] = useState(null);
@@ -33,10 +40,18 @@ export default function Checklists() {
         return;
       }
       const data = snap.data();
-      const liberado = data?.rolePortal === "super_admin" || data?.modulos?.checklist === true;
+      const superAdmin = data?.rolePortal === "super_admin";
+      const vencimento = toDate(data?.vencimento);
+      const vencido = !superAdmin && vencimento && new Date() > vencimento;
+      const liberado = superAdmin || (data?.modulos?.checklist === true && !vencido);
+
       setAutorizado(liberado);
       if (!liberado) {
-        alert("Você não tem acesso ao módulo de Checklist.");
+        alert(
+          vencido
+            ? "Seu plano venceu. Assine um plano para continuar usando o Checklist."
+            : "Você não tem acesso ao módulo de Checklist."
+        );
         router.replace("/");
       }
     });

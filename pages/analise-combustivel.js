@@ -6,6 +6,13 @@ import { signOut } from "firebase/auth";
 import { auth, db } from "../lib/firebaseClient";
 import { requireAuth } from "../lib/authGuard";
 
+function toDate(ts) {
+  if (!ts) return null;
+  if (ts.toDate) return ts.toDate();
+  const d = new Date(ts);
+  return isNaN(d.getTime()) ? null : d;
+}
+
 const ARQUIVOS_COMBUSTIVEL = {
   "ETANOL": "etanol.json",
   "GASOLINA COMUM": "gasolina_comum.json",
@@ -15,8 +22,8 @@ const ARQUIVOS_COMBUSTIVEL = {
 };
 
 const OBSERVACOES = {
-  "GASOLINA COMUM": "Realizar análise com proveta de 1000ml.\nCor: Exceto azul. Massa específica a 20°C: Acima de 715 kg/m³ Teor de etanol: 32%.",
-  "GASOLINA ADITIVADA": "Realizar análise com proveta de 1000ml.\nCor: Exceto azul. Massa específica a 20°C: Acima de 715 kg/m³ Teor de etanol: 32%.",
+  "GASOLINA COMUM": "Realizar análise com proveta de 1000ml.\nCor: Exceto azul. Massa específica a 20°C: Acima de 715 kg/m³ Teor de etanol: 30%.",
+  "GASOLINA ADITIVADA": "Realizar análise com proveta de 1000ml.\nCor: Exceto azul. Massa específica a 20°C: Acima de 715 kg/m³ Teor de etanol: 30%.",
   "DIESEL S500": "Cor: Deve ser vermelha.\nMassa específica a 20°C: 815–865 kg/m³.",
   "DIESEL S10": "Cor: de incolor a amarelada.\nMassa específica a 20°C: 815–853 kg/m³.",
   "ETANOL": "Cor: Incolor, não poderá ser azul ou laranja.\nMassa específica a 20°C: 802,90–811,20 kg/m³\nTeor alcoólico: 92,5–95,4 %mm.",
@@ -60,10 +67,18 @@ export default function AnaliseCombustivel() {
         return;
       }
       const data = snap.data();
-      const liberado = data?.rolePortal === "super_admin" || data?.modulos?.analise === true;
+      const superAdmin = data?.rolePortal === "super_admin";
+      const vencimento = toDate(data?.vencimento);
+      const vencido = !superAdmin && vencimento && new Date() > vencimento;
+      const liberado = superAdmin || (data?.modulos?.analise === true && !vencido);
+
       setAutorizado(liberado);
       if (!liberado) {
-        alert("Você não tem acesso ao módulo de Análise de Combustível.");
+        alert(
+          vencido
+            ? "Seu plano venceu. Assine um plano para continuar usando a Análise de Combustível."
+            : "Você não tem acesso ao módulo de Análise de Combustível."
+        );
         router.replace("/");
       }
     });
