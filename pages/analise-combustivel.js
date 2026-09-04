@@ -138,7 +138,7 @@ export default function AnaliseCombustivel() {
         </div>
       </div>
 
-      <div className="card cardPad">
+      <div className="card cardPad analiseCard">
         <label className="rotulo">Tipo de Combustível</label>
         <select
           className="campo"
@@ -203,12 +203,16 @@ export default function AnaliseCombustivel() {
       </div>
 
       <style jsx>{`
+        .analiseCard {
+          padding-top: 44px;
+          padding-bottom: 48px;
+        }
         .rotulo {
           display: block;
           font-weight: bold;
           color: #bfc4c5;
-          margin-top: 16px;
-          margin-bottom: 6px;
+          margin-top: 22px;
+          margin-bottom: 8px;
           font-size: 14px;
         }
         .campo {
@@ -223,42 +227,43 @@ export default function AnaliseCombustivel() {
         .observacoes {
           background: #fff;
           color: #222;
-          padding: 14px;
+          padding: 16px;
           border-radius: 8px;
           border: 1px solid #ccc;
           font-style: italic;
           white-space: pre-line;
           margin: 0;
-          font-size: 14px;
+          font-size: 17px;
+          line-height: 1.5;
         }
         .botaoBuscar {
           display: block;
-          margin: 26px auto 0;
+          margin: 34px auto 0;
           background: #00607f;
           color: #fff;
           border: none;
-          padding: 14px 28px;
-          border-radius: 25px;
+          padding: 20px 40px;
+          border-radius: 30px;
           font-weight: bold;
-          font-size: 15px;
+          font-size: 19px;
           cursor: pointer;
-          min-width: 220px;
+          min-width: 280px;
         }
         .botaoBuscar:disabled {
           opacity: 0.6;
           cursor: default;
         }
         .resultadoContainer {
-          margin-top: 24px;
+          margin-top: 30px;
           background: #f0f0f0;
-          padding: 20px;
+          padding: 28px;
           border-radius: 10px;
           border: 1px solid #ccc;
         }
         .resultado {
           color: #000;
-          font-size: 16px;
-          margin: 6px 0;
+          font-size: 19px;
+          margin: 10px 0;
         }
         @media (max-width: 400px) {
           .botaoBuscar {
