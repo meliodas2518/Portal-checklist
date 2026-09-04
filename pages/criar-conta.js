@@ -12,6 +12,8 @@ import {
 } from "firebase/firestore";
 import { auth, db } from "../lib/firebaseClient";
 
+const BACKEND_URL = "https://backend-checklist-z3sr.onrender.com";
+
 function gerarCodigoAleatorio() {
   return Math.floor(1000 + Math.random() * 9000).toString();
 }
@@ -38,6 +40,30 @@ async function criarPostoComCodigoLivre(nomePosto, uid) {
     }
   }
   throw new Error("Não foi possível gerar um código de posto livre. Tente novamente.");
+}
+
+// Mesmo endpoint que o app já usa. "origem: portal" vai no corpo pra o
+// backend poder diferenciar de onde veio o cadastro, se quiser ajustar a
+// mensagem do Telegram (ex: "NOVO CADASTRO (PORTAL)" em vez de "(APP)").
+async function avisarTelegramNoBackend(user, emailFallback) {
+  try {
+    const token = await user.getIdToken(true);
+    await fetch(`${BACKEND_URL}/app/telegram/new-user`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+      body: JSON.stringify({
+        deviceName: "Portal Web",
+        email: String(emailFallback || ""),
+        origem: "portal",
+      }),
+    });
+  } catch (e) {
+    // não trava o cadastro se o aviso falhar
+    console.log("avisarTelegramNoBackend falhou:", e?.message || e);
+  }
 }
 
 export default function CriarConta() {
@@ -148,6 +174,9 @@ export default function CriarConta() {
           console.log("indicacao falhou:", e?.message || e);
         }
       }
+
+      // 5) avisa o Telegram via backend (mesmo endpoint que o app usa)
+      await avisarTelegramNoBackend(cred.user, email.trim());
 
       // conta criada e já logada -> manda direto pro dashboard, onde vai
       // aparecer o aviso de plano vencido e o link pra assinar
