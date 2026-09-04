@@ -150,4 +150,5 @@ export default function PostoPage() {
       </div>
     </div>
   );
+
 }
